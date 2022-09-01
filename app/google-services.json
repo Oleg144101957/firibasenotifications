@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33822770329",
+    "project_id": "firibasenotifications",
+    "storage_bucket": "firibasenotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33822770329:android:f58ee2e614739081772408",
+        "android_client_info": {
+          "package_name": "com.example.firibasenotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33822770329-fjb94b1r8ilvmjd888greoid59mmjl6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWjmsPFJ_RHBTWd7tnD-zysUNMXeXmFao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33822770329-fjb94b1r8ilvmjd888greoid59mmjl6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
